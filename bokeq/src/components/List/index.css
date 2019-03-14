@@ -1,0 +1,5 @@
+.article h3 {
+  border-bottom: 1px solid silver;
+  display: flex;
+  justify-content: space-between;
+}
